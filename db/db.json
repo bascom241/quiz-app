@@ -1,0 +1,32 @@
+{
+    "quizes":[
+        {
+            "id":1,
+            "Question": "What is the name of the first bone of human body",
+            "option1":"Calvaria",
+            "option2":"skull",
+            "option3":"femur",
+            "option4":"gems",
+            "answer" :2
+        },
+        {
+            "id":2,
+            "Question": "What is the longest bone in the human body",
+            "option1":"Calvaria",
+            "option2":"adiposie",
+            "option3":"tremour ",
+            "option4":"trapis",
+            "answer" :2
+        },
+        {
+            "id":3,
+            "Question": "Hoe many fingers do we have in the hand of human",
+            "option1":"five fingers ",
+            "option2":"7 fingers",
+            "option3":"not sure ",
+            "option4":"10 fingers ",
+            "answer" :3
+        }
+
+    ]
+}
